@@ -83,12 +83,12 @@ la mayoría de las personas sean de dicha edad y por ello también sería lógic
 accidentes de ellos. Y las personas con más de 60, creo que puede deberse a la facultades reducidas, 
 por ejemplo, en su salud.
 
-<br><br>
+<br>
 
 Hay muchos más datos que pueden verse a través de este repositorio. Aquí solo doy varios puntos clave,
 pero agradecería que puedan tomarse el tiempo de leer sobre este estudio que he hecho.
 
-<br><br>
+<br>
 
 Después de esta etapa de análisis, di el siguiente paso en mi estudio: trasladar los hallazgos y conclusiones 
 a una plataforma más accesible y visual como Power BI. Con esta herramienta, logré presentar la información de 
@@ -96,7 +96,13 @@ una manera clara y concisa, permitiendo a cualquier persona observar de manera i
 accidentes a lo largo del tiempo, cómo se distribuyen geográficamente, y cuáles son los indicadores más relevantes 
 que debemos monitorear.
 
-<br><br>
+![image](https://github.com/user-attachments/assets/124bb7b6-45ca-4d4e-91c1-9f01e95d0a11)
+
+![image](https://github.com/user-attachments/assets/6bdf7908-7b33-482c-b1f0-2520216cee56)
+
+
+
+<br>
 
 Mi esperanza es que este análisis y los conocimientos derivados de él contribuyan, aunque sea mínimamente,
 a la toma de decisiones más informadas en el ámbito de la seguridad vial. Porque, aunque no podemos devolver
